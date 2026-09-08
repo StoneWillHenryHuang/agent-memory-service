@@ -1,0 +1,1 @@
+"""Executable adapter contract verification."""

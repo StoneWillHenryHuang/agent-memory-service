@@ -1,0 +1,1 @@
+"""FastAPI reference integration tests."""
